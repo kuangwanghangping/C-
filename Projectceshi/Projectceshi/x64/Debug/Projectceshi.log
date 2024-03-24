@@ -1,0 +1,8 @@
+﻿  menus.cpp
+  operations.cpp
+C:\Users\Administrator\Desktop\Projectceshi\Projectceshi\operations.cpp(105,2): warning C4102: “defaut”: 未引用的标签
+  read_input.cpp
+  xiaogu_account.cpp
+C:\Users\Administrator\Desktop\Projectceshi\Projectceshi\xiaogu_account.cpp(25,3): warning C4102: “defaut”: 未引用的标签
+  正在生成代码...
+  Projectceshi.vcxproj -> C:\Users\Administrator\Desktop\Projectceshi\x64\Debug\Projectceshi.exe
