@@ -1,0 +1,9 @@
+﻿  key.cpp
+C:\Users\Administrator\Desktop\key\key\key.cpp(17,18): warning C4244: “参数”: 从“LPARAM”转换到“LONG”，可能丢失数据
+    正在创建库 C:\Users\Administrator\Desktop\key\x64\Release\key.lib 和对象 C:\Users\Administrator\Desktop\key\x64\Release\key.exp
+  正在生成代码
+  1 of 9 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  key.vcxproj -> C:\Users\Administrator\Desktop\key\x64\Release\key.dll

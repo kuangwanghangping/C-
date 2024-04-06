@@ -1,0 +1,4 @@
+﻿  key.cpp
+C:\Users\Administrator\Desktop\key\key\key.cpp(17,18): warning C4244: “参数”: 从“LPARAM”转换到“LONG”，可能丢失数据
+    正在创建库 C:\Users\Administrator\Desktop\key\x64\Debug\key.lib 和对象 C:\Users\Administrator\Desktop\key\x64\Debug\key.exp
+  key.vcxproj -> C:\Users\Administrator\Desktop\key\x64\Debug\key.dll
